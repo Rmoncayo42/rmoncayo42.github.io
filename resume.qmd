@@ -1,89 +1,126 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+layout: resume
+title: Brigham Young's Resume
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Roosevelt Moncayo
 
+The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
-## Currently
+::: {#webaddress}
+<a href="datascience@byui.edu">datascience\@byui.edu</a> \|
+<a href="https://byuidatascience.github.io/development.html">Data
+Science Program</a>
+:::
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+Brigham Young University - Idaho Rexburg, ID
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Bachelor of Science in Accounting 2023 - 2024
 
-- Sizar
+• GPA: 3.6
 
-`1667 - death`
-__Trinity College, Cambridge__
+• Area of interest: Auditor.
 
-- Fellow
+• Computer Programming (Minor)
 
+• Associate in Business Administration.
 
+• Relevant course work: Financial Accounting, Programming Building
+Blocks.
 
-## Awards
+Related Experience
 
-`2012`
-President, *Royal Society*, London, UK
+## Experience
 
-Associate, *French Academy of Science*, Paris, France
+**Melaleuca Inc. Rexburg, ID**
 
+Business Development/Customer Service May 2022 - September 2022
 
+• Provided a world class customer service
 
-## Publications
+• Promoted in three months since I was hired by Melaleuca into Business
+Development.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+• Partnering with Marketing Executives to help them reach business
+goals.
 
-### Journals
+New York City, Manhattan
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Intertek
 
-`1669`
-Lectiones opticæ.
+Quality Assurance Technician August 2017 – April 2022
 
-etc. etc. etc.
+• Supervise around 3 to 4 jobs a day, check and ensure the quality of
+the jobs was well done.
 
-### Patents
+• Successfully managed and worked with a different team every day.
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+• Promoted two times in the company by learning new skills and getting
+new quality assurance certificates.
 
+Chipotle
 
-## Occupation
+Assistant Manager May 2013 - January 2015
 
-`1600`
-__Royal Mint__, London
+• Applied operation innovation principles to lead reduction of head
+count from 14 to 8 employees. Resulting in wage savings of \$6,000
+monthly.
 
-- Warden
-- Minted coins
+• Constructed improved process for cleaning inspections regionally
+resulted in an overall score from 86/100 to 95/100 in state food
+inspection grade.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+• Co-managed and developed 15 new hires to hit service and production
+goals. Resulting in productivity increase to achieve regional sales.
 
+Data Science Lead
 
+## Projects
 
+-   • Started a cosmetic retail business where I participate in
+    decisions such as: investments in new products or hiring new
+    employees.
+
+    • Created a professional spreadsheet in excel for inventory. Where
+    can analyze around 6000 products in a faster and more understandable
+    way.
+
+    • Conducted independent research on cosmetics suppliers to get best
+    brands, variety on products on affordable make up for consumers.
+
+## **leadership/interests/skills/awards**
+
+• Fluency in the Spanish language, including the ability to read, write,
+and speak.
+
+• Trainer/leader of different team groups as a voluntary representative
+of the LDS Church.
+
+• Analyze Data and create charts in Tableau and python.
+
+• Create a data base with SQL and understand R language.
+
+• Developed strong strategic thinking skills through years of playing
+soccer, where I captained the team and created game winning strategies.
+
+• Lead and motivate teams in both soccer and multiplayer games,
+fostering a collaborative and winning mindset.
+
+Service and Work History
+
+`2025-2027` **Math Tutor**, LDSBC
+
+`2023-2025` **Service Missionary**, South Africa
+
+```{=html}
 <!-- ### Footer
 
 Last updated: May 2013 -->
+```
